@@ -1,0 +1,13 @@
+{
+  "temp": "Temperatura",
+  "feels_like": "Temperatura odczuwalna",
+  "temp_min": "Minimalna temperatura",
+  "temp_max": "Maxymalna temperatura",
+  "pressure": "Ciśnienie",
+  "sea_level": "Poziom morza",
+  "grnd_level": "Poziom gruntu",
+  "day_temperature": "Temperatura w dzień",
+  "night_temperature": "Temperatura w nocy",
+  "morning_temperature": "Temperatura rano",
+  "humidity": "Wilgotność"
+}

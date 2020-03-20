@@ -1,0 +1,14 @@
+{
+  "temp": "Temperature",
+  "feels_like": "Feels like",
+  "temp_min": "Minimal temperature",
+  "temp_max": "Maximal temperature",
+  "pressure": "Pressure",
+  "sea_level": "Sea level",
+  "grnd_level": "Ground level",
+  "temp_kf": 0.56,
+  "day_temperature": "Day temperature",
+  "night_temperature": "Night temperature",
+  "morning_temperature": "Morning temperature",
+  "humidity": "Humidity"
+}
